@@ -1,7 +1,7 @@
 
 
 # LNM Institute of Information Technology (LNMIIT) - LUSIP Portal Frontend
-This repository contains the frontend code for the LUSIP (LNMIIT University Student Internship Program) portal website of the LNM Institute of Information Technology. Make sure to check out the backend of the project, which is available [here](https://github.com/prashantchoudhary155/LUSIP-BACKEND?tab=readme-ov-file)
+This repository contains the frontend code for the LUSIP (LNMIIT University Student Internship Program) portal website of the LNM Institute of Information Technology. Make sure to check out the backend of the project, which is available [here](https://github.com/prashantchoudhary155/LUSIP_BACKEND)
 
 # Technologies
 
